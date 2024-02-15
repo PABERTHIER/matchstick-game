@@ -1,3 +1,3 @@
 # matchstick-game
 
-A matchstick game with differents versions.
+A matchstick game with different versions.
